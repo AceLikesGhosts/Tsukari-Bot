@@ -4,7 +4,7 @@ import config from "../../default";
 export = {
   "name": "delmsg",
   "usage": `${config.defaultprefix}delmsg [ammout]`,
-  "description": "Delete Message on channel for spesific ammout",
+  "description": "Delete Message on channel for specific ammout",
   "guildOnly": true,
   "alias": ["purge"],
   "permission": ["MANAGE_MESSAGES"],
